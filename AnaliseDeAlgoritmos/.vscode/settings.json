@@ -4,6 +4,7 @@
         "string.h": "c",
         "stdbool.h": "c",
         "stdlib.h": "c",
+        "stdio.h": "c",
         "ADO08.C": "cpp",
         "ADO8.C": "cpp"
     }
